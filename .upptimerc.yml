@@ -1,6 +1,6 @@
 # Change these first
-owner: hans00 # Your GitHub organization or username, where this repository lives
-repo: itsrv-uptime # The name of this repository
+owner: itsrv-tw # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
 
 sites:
   - name: VM Server
