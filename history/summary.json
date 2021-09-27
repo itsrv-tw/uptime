@@ -4,19 +4,19 @@
     "url": "https://vm.itsrv.tw:8006",
     "icon": "https://favicons.githubusercontent.com/vm.itsrv.tw",
     "slug": "vm-server",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "96.98%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 587,
-    "timeDay": 482,
-    "timeWeek": 581,
+    "timeDay": 541,
+    "timeWeek": 583,
     "timeMonth": 574,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2021-09-27": 0,
+      "2021-09-27": 43,
       "2021-09-10": 23
     }
   }
