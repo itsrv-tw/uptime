@@ -4,7 +4,7 @@
     "url": "https://vm.itsrv.tw:8006",
     "icon": "https://favicons.githubusercontent.com/vm.itsrv.tw",
     "slug": "vm-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 653,
     "timeYear": 637,
     "dailyMinutesDown": {
+      "2022-05-14": 0,
       "2021-11-15": 19,
       "2021-09-27": 43,
       "2021-09-10": 23
