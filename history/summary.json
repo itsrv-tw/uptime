@@ -4,7 +4,7 @@
     "url": "https://vm.itsrv.tw:8006",
     "icon": "https://icons.duckduckgo.com/ip3/vm.itsrv.tw.ico",
     "slug": "vm-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.39%",
@@ -16,6 +16,7 @@
     "timeMonth": 708,
     "timeYear": 696,
     "dailyMinutesDown": {
+      "2023-06-23": 0,
       "2023-06-20": 26,
       "2023-06-18": 16,
       "2023-06-17": 19,
