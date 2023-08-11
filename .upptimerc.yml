@@ -2,9 +2,26 @@
 owner: itsrv-tw # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/10 * * * *"
+
 sites:
-  - name: VM Server
-    url: 'https://vm.itsrv.tw:8006'
+  - name: ITSrv VM Server
+    url: $ITSRV_VM_URL
+  - name: CloudTCM Web
+    url: https://cloudtcm.com
+  - name: CloudTCM API Backend
+    url: $TCM_API_BACKEND_URL
+  - name: CloudTCM API Frontend
+    url: $TCM_API_FRONTEND_URL
+    expectedStatusCodes:
+      - 404
 
 status-website:
   publish: true
@@ -13,14 +30,12 @@ status-website:
   cname: uptime.itsrv.tw
   # baseUrl: /itsrv-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: ITSrv Upptime
+  name: Service Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
-    - title: Home
-      href: https://itsrv.tw
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
