@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "it-srv-vm-server",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 662,
     "timeDay": 664,
     "timeWeek": 662,
     "timeMonth": 662,
     "timeYear": 662,
-    "dailyMinutesDown": {
-      "2023-08-14": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CloudTCM Web",
