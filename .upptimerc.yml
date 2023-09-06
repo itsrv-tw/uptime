@@ -14,14 +14,6 @@ workflowSchedule:
 sites:
   - name: ITSrv VM Server
     url: $ITSRV_VM_URL
-  - name: CloudTCM Web
-    url: https://cloudtcm.com
-  - name: CloudTCM API Backend
-    url: $TCM_API_BACKEND_URL
-  - name: CloudTCM API Frontend
-    url: $TCM_API_FRONTEND_URL
-    expectedStatusCodes:
-      - 404
 
 status-website:
   publish: true
