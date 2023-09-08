@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "it-srv-vm-server",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 697,
-    "timeDay": 667,
-    "timeWeek": 693,
-    "timeMonth": 697,
-    "timeYear": 697,
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 695,
+    "timeDay": 647,
+    "timeWeek": 688,
+    "timeMonth": 695,
+    "timeYear": 695,
     "dailyMinutesDown": {
-      "2023-09-07": 11,
       "2023-08-25": 17
     }
   }
