@@ -13,9 +13,10 @@
     "time": 730,
     "timeDay": 950,
     "timeWeek": 760,
-    "timeMonth": 705,
+    "timeMonth": 703,
     "timeYear": 730,
     "dailyMinutesDown": {
+      "2023-12-01": 0,
       "2023-11-21": 17,
       "2023-11-14": 19,
       "2023-10-14": 16,
