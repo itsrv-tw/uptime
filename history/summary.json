@@ -4,7 +4,7 @@
     "url": "$ITSRV_VM_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "it-srv-vm-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
@@ -16,6 +16,7 @@
     "timeMonth": 620,
     "timeYear": 646,
     "dailyMinutesDown": {
+      "2025-03-24": 0,
       "2025-03-21": 26,
       "2024-06-19": 18,
       "2024-06-14": 19,
