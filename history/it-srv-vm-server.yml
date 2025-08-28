@@ -1,7 +1,7 @@
 url: $ITSRV_VM_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-27T23:15:46.872Z
+status: up
+code: 200
+responseTime: 673
+lastUpdated: 2025-08-28T03:07:19.551Z
 startTime: 2023-08-11T08:51:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
